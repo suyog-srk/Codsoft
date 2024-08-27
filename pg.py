@@ -28,5 +28,5 @@ while True:
     user = input("Do you want to generate another password? (Y/N): ")
     if user != 'Y':
         print("Goodbye!")
-        break
+        break 
     
