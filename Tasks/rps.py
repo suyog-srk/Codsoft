@@ -46,6 +46,3 @@ def rps():
             break
 
 rps()
-
-
-    
